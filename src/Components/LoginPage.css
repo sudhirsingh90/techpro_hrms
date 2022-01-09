@@ -1,0 +1,65 @@
+.loginpage_control {
+  text-align: center;
+}
+.innerDiv {
+  text-align: center;
+}
+
+.logoImg {
+  margin-bottom: 40px;
+}
+
+.heading {
+  text-decoration: solid;
+  color: red;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.input {
+  max-width: 370px;
+  width: 370px;
+  height: 45px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857;
+  color: rgb(51, 51, 51);
+  background-color: rgb(255, 255, 255);
+  background-image: none;
+  opacity: 1;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 3px;
+  box-shadow: rgb(0 0 0 / 8%) 0px 1px 1px inset;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  margin-bottom: 15px;
+}
+
+.section-main {
+  background: #262a4a;
+  height: 100%;
+  background-size: full;
+  color: #ddd;
+  min-height: calc(100% - 1px);
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 15%;
+  padding-bottom: 100%;
+}
+
+.container {
+  height: 100%;
+}
+
+.btn {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  background: rgb(255, 0, 1);
+  height: 45px;
+  border-radius: 0px;
+  font-size: 20px;
+  margin-top: 15px;
+  letter-spacing: 1px;
+  width: 370px;
+  max-width: 370px;
+}
